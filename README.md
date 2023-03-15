@@ -11,3 +11,8 @@ Code examples from working group in Neural Network Workshop Series
 # Week 2 Summary (Mar 1)
 - Introduction to artificial neural networks
 - Started tutorial on building a neural network
+
+# Week 3 Summary (Mar 15)
+- Discussed Softmax transformation of logits to obtain class probabilities
+- Completed tutorial on building a network
+- Next tutorial: https://pytorch.org/tutorials/beginner/basics/autogradqs_tutorial.html
