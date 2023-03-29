@@ -16,3 +16,7 @@ Code examples from working group in Neural Network Workshop Series
 - Discussed Softmax transformation of logits to obtain class probabilities
 - Completed tutorial on building a network
 - Next tutorial: https://pytorch.org/tutorials/beginner/basics/autogradqs_tutorial.html
+
+# Week 4 Summary (Mar 29)
+- Downloaded Fashion MNIST dataset
+- Setup code for training a network in 3 epochs
