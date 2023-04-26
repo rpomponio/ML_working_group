@@ -1,5 +1,13 @@
-# ML_working_group
+# Working group on topics in Machine Learning
 Code examples from working group in Neural Network Workshop Series
+
+Student leaders: Connor Elkhill, David Baraghosi
+Faculty: Antonio Porras, PhD
+
+# Pre-requisites
+- Install `anaconda`, setup virtual environment (i.e., `my-torch`)
+- Install `pytorch` and `tensorboard` to this environment
+- Activate the environment and launch notebooks within environment
 
 # Week 1 Summary (Feb 15)
 - Introductions, what we hope to learn
