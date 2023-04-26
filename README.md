@@ -1,7 +1,8 @@
 # Working group on topics in Machine Learning
 Code examples from working group in Neural Network Workshop Series
 
-Student leaders: Connor Elkhill, David Baraghosi
+Lead by: C. Elkhill and D. Baraghosi
+
 Faculty: Antonio Porras, PhD
 
 # Pre-requisites
